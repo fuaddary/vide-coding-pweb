@@ -4,15 +4,16 @@
 ---
 ## Materi
 
-bahaya vibe coding
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UTMXKg47BM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+## Video Terkait — Klik gambar untuk menonton
 
-bijak vibe coding
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w_eNLYWjGNY?si=I-CMe8Gzcx3HgzCp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![Bahaya Vibe Coding](https://img.youtube.com/vi/3UTMXKg47BM/hqdefault.jpg)](https://www.youtube.com/watch?v=3UTMXKg47BM)  
+*Bahaya Vibe Coding*
 
-Hands on vibe coding
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-TTJTLD_e_4?si=C4r0ZGUNeP65BAKO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![Bijak Vibe Coding](https://img.youtube.com/vi/w_eNLYWjGNY/hqdefault.jpg)](https://www.youtube.com/watch?v=w_eNLYWjGNY)  
+*Bijak Vibe Coding*
 
+[![Hands on Vibe Coding](https://img.youtube.com/vi/-TTJTLD_e_4/hqdefault.jpg)](https://www.youtube.com/watch?v=-TTJTLD_e_4)  
+*Hands on Vibe Coding*
 ---
 
 ## 🎯 Tujuan  
