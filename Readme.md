@@ -2,6 +2,18 @@
 **Stack:** React.js + Express.js + MongoDB  
 
 ---
+## Materi
+
+bahaya vibe coding
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UTMXKg47BM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+bijak vibe coding
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w_eNLYWjGNY?si=I-CMe8Gzcx3HgzCp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Hands on vibe coding
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-TTJTLD_e_4?si=C4r0ZGUNeP65BAKO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
 
 ## 🎯 Tujuan  
 Buat **aplikasi web sederhana** yang membantu **menyelesaikan masalah nyata** di sekitar kamu — bukan sekadar CRUD, tapi solusi yang punya dampak.  
