@@ -4,8 +4,6 @@
 ---
 ## Materi
 
-## Video Terkait — Klik gambar untuk menonton
-
 [![Bahaya Vibe Coding](https://img.youtube.com/vi/3UTMXKg47BM/hqdefault.jpg)](https://www.youtube.com/watch?v=3UTMXKg47BM)  
 *Bahaya Vibe Coding*
 
@@ -14,6 +12,7 @@
 
 [![Hands on Vibe Coding](https://img.youtube.com/vi/-TTJTLD_e_4/hqdefault.jpg)](https://www.youtube.com/watch?v=-TTJTLD_e_4)  
 *Hands on Vibe Coding*
+
 ---
 
 ## 🎯 Tujuan  
@@ -93,3 +92,6 @@ Lalu, buat aplikasi yang bisa membantu memecahkan masalah tersebut secara digita
 | **6** | 🚀 **Dokumentasi** | **10%** | - README lengkap (problem, solusi, fitur, cara menjalankan). <br> - Demo/deployment berfungsi (jika ada). <br> - Penjelasan ide & fitur saat presentasi jelas. |
 
 ---
+
+## Submission link
+Kirimkan hasil melalui **[Google Form](https://docs.google.com/spreadsheets/d/1r0OdjrNrlbPnHkhf87SmnG4FMFYluuJI1CglJa2Nzv0/edit?usp=sharing)** 
